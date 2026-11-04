@@ -1,0 +1,77 @@
+# hg-study
+
+> 학습 내용 주제별 정리
+
+<br>
+
+### 목차
+
+| **주제** | **내용** | **저장소** |
+| --- | --- | --- |
+| Git, GitHub | 명령어, 브랜치, GitHub 연동과 협업, Sourcetree, GitFlow, Rebase | [git-github](https://github.com/hg-study/git-github) |
+| Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
+
+<br>
+
+
+## [Git, GitHub](https://github.com/hg-study/git-github)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/git-github/blob/main/README.md)
+
+**01_Git&Branch**
+- [Git 정의 & 주요 기능](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/01_Theory.md)
+- [Git 글로벌 & 로컬 설정](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/02_UserInfo_Settings.md)
+- [Git 명령어](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/03_Git_Command.md)
+    - [Git 기초 실습](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/03_Git_prac.md)
+- [Branch 명령어](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/04_Branch_Command.md)
+    - [Branch 기초 실습](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/04_Branch_prac.md)
+- [Git & Branch 명령어 모음](https://github.com/hg-study/git-github/blob/main/Git_GitHub/01_Git%26Branch/05_Git%26Branch_AllCommand.md)
+
+**02_Link_GitHub**
+- [GitHub 명령어](https://github.com/hg-study/git-github/blob/main/Git_GitHub/02_Link_GitHub/01_Link_GitHub_Command.md)
+    - [GitHub 기초 실습](https://github.com/hg-study/git-github/blob/main/Git_GitHub/02_Link_GitHub/01_Link_GitHub_prac.md)
+- [GitHub 명령어 모음](https://github.com/hg-study/git-github/blob/main/Git_GitHub/02_Link_GitHub/02_Link_GitHub_AllCommand.md)
+
+**03_GitHub_Collaboration**
+- [GitHub 협업](https://github.com/hg-study/git-github/blob/main/Git_GitHub/03_GitHub_Collaboration.md)
+
+**04_Sourcetree**
+- [Sourcetree 가이드](https://github.com/hg-study/git-github/blob/main/Git_GitHub/04_Sourcetree/01_Sourcetree_Guide.md)
+- [GitFlow 정의, 흐름](https://github.com/hg-study/git-github/blob/main/Git_GitHub/04_Sourcetree/02_GitFlow.md)
+- [Sourcetree GitFlow 실습](https://github.com/hg-study/git-github/blob/main/Git_GitHub/04_Sourcetree/03_Sourcetree_GitFlow_prac.md)
+- [Sourcetree Rebase 실습](https://github.com/hg-study/git-github/blob/main/Git_GitHub/04_Sourcetree/04_Sourcetree_Rebase_prac.md)
+
+</details>
+
+
+<br>
+
+
+## [Assignments](https://github.com/hg-study/assignments)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/assignments/blob/main/README.md)
+
+- [01_Wireframe(화면설계)](https://github.com/hg-study/assignments/tree/main/Assignments/01_Wireframe)
+- [02_UI_Design(UI 디자인)](https://github.com/hg-study/assignments/blob/main/Assignments/02_UI_Design_StoryBoard_task.pdf)
+- [03_UI_Implementation(화면 구현)](https://github.com/hg-study/assignments/blob/main/Assignments/03_UI_Implementation.pdf)
+- [04_Requirements_Analysis(요구사항 확인)](https://github.com/hg-study/assignments/blob/main/Assignments/04_Requirements_Analysis.pdf)
+- [05_Database_Implementation(데이터베이스 구현)](https://github.com/hg-study/assignments/tree/main/Assignments/05_Database_Implementation)
+- [06_SQL_Development(SQL활용)](https://github.com/hg-study/assignments/tree/main/Assignments/06_SQL_Development)
+- [07_Development_Environment_Management(개발 환경 운영 지원)](https://github.com/hg-study/assignments/blob/main/Assignments/07_Development_Environment_Management_ppt.pdf)
+- [08_Programming_Language_Utilization(프로그래밍 언어 활용)](https://github.com/hg-study/assignments/tree/main/Assignments/08_Programming_Language_Utilization)
+- [09_Network_Programming_Implementation(네트워크 프로그래밍 구현)](https://github.com/hg-study/assignments/tree/main/Assignments/09_Network_Programming_Implementation)
+- [10_Interface_Implementation(인터페이스 구현)](https://github.com/hg-study/assignments/tree/main/Assignments/10_Interface_Implementation)
+- [11_Application_Design(애플리케이션 설계)](https://github.com/hg-study/assignments/tree/main/Assignments/11_Application_Design)
+- [12_ServerProgram_Implementation(서버프로그램 구현)](https://github.com/hg-study/assignments/tree/main/Assignments/12_ServerProgram_Implementation)
+- [13_Integration_Implementation(통합 구현)](https://github.com/hg-study/assignments/tree/main/Assignments/13_Integration_Implementation)
+- [14_Application_Testing(애플리케이션 테스트 수행)](https://github.com/hg-study/assignments/tree/main/Assignments/14_Application_Testing)
+- [15_Application_Deployment(애플리케이션 배포)](https://github.com/hg-study/assignments/tree/main/Assignments/15_Application_Deployment)
+- [16_DBMS_Implementation(DBMS 구축)](https://github.com/hg-study/assignments/tree/main/Assignments/16_DBMS_Implementation)
+
+</details>
