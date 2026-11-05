@@ -86,6 +86,8 @@
 - [Control](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/06Control.md)
 - [Function](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/07Function.md)
 - [Event](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/08Event.md)
+- [Node](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/09Node.md)
+- [Async](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/10Async.md)
 
 </details>
 
