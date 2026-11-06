@@ -89,6 +89,12 @@
 - [Node](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/09Node.md)
 - [Async](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/03_JS/Theory/10Async.md)
 
+**04_JSLIB**
+- [Swiper](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/01Swiper.md)
+- [Lodash](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/02Lodash.md)
+- [ScrollMagic](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/03ScrollMagic.md)
+- [Gsap](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/04Gsap.md)
+
 </details>
 
 
