@@ -97,6 +97,7 @@
 - [Chart](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/05Chart.md)
 - [Qrcode](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/06Qrcode.md)
 - [Canvas](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/07Canvas.md)
+- [Leaflet](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/04_JSLIB/Theory/08Leaflet.md)
 
 </details>
 
