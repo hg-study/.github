@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Git, GitHub | 명령어, 브랜치, GitHub 연동과 협업, Sourcetree, GitFlow, Rebase | [git-github](https://github.com/hg-study/git-github) |
 | HTML, CSS, JavaScript | HTML, CSS, JS, JS 라이브러리, SCSS, Node | [html-css-js](https://github.com/hg-study/html-css-js) |
+| Dev Tools | Jira, Slack, VSCode, Eclipse 서블릿 설정, MySQL 드라이버 | [dev-tools](https://github.com/hg-study/dev-tools) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -106,6 +107,23 @@
 
 **06_NODE**
 - [Node](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/06_NODE/Theory/01Node.md)
+
+</details>
+
+
+<br>
+
+## [Dev Tools](https://github.com/hg-study/dev-tools)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/dev-tools/blob/main/README.md)
+
+- [Jira_Slack](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/01_Jira_Slack.md)
+- [VSCode](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/02_VSCode.md)
+- [Eclipse_Servlet](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/03_Eclipse_Servlet.md)
+- [MySQL_Driver](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/04_MySQL_Driver.md)
 
 </details>
 
