@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Git, GitHub | 명령어, 브랜치, GitHub 연동과 협업, Sourcetree, GitFlow, Rebase | [git-github](https://github.com/hg-study/git-github) |
 | HTML, CSS, JavaScript | HTML, CSS, JS, JS 라이브러리, SCSS, Node | [html-css-js](https://github.com/hg-study/html-css-js) |
+| Database | MySQL 설치, SQL, 모델링, 백업과 복원 | [database](https://github.com/hg-study/database) |
 | Dev Tools | Jira, Slack, VSCode, Eclipse 서블릿 설정, MySQL 드라이버 | [dev-tools](https://github.com/hg-study/dev-tools) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
@@ -107,6 +108,38 @@
 
 **06_NODE**
 - [Node](https://github.com/hg-study/html-css-js/blob/main/HTML_CSS_JS/06_NODE/Theory/01Node.md)
+
+</details>
+
+
+<br>
+
+## [Database](https://github.com/hg-study/database)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/database/blob/main/README.md)
+
+- [Install](https://github.com/hg-study/database/blob/main/MySQL/Theory/01Install.md)
+- [Ddl](https://github.com/hg-study/database/blob/main/MySQL/Theory/02Ddl.md)
+- [Dml](https://github.com/hg-study/database/blob/main/MySQL/Theory/03Dml.md)
+- [User](https://github.com/hg-study/database/blob/main/MySQL/Theory/04User.md)
+- [Select](https://github.com/hg-study/database/blob/main/MySQL/Theory/05Select.md)
+- [Constraint](https://github.com/hg-study/database/blob/main/MySQL/Theory/06Constraint.md)
+- [Normalization](https://github.com/hg-study/database/blob/main/MySQL/Theory/07Normalization.md)
+- [Variable Function](https://github.com/hg-study/database/blob/main/MySQL/Theory/08VariableFunction.md)
+- [Index](https://github.com/hg-study/database/blob/main/MySQL/Theory/09Index.md)
+- [Join](https://github.com/hg-study/database/blob/main/MySQL/Theory/10Join.md)
+- [View](https://github.com/hg-study/database/blob/main/MySQL/Theory/11View.md)
+- [Json](https://github.com/hg-study/database/blob/main/MySQL/Theory/12Json.md)
+- [Pivot](https://github.com/hg-study/database/blob/main/MySQL/Theory/13Pivot.md)
+- [Procedure](https://github.com/hg-study/database/blob/main/MySQL/Theory/14Procedure.md)
+- [Transaction](https://github.com/hg-study/database/blob/main/MySQL/Theory/15Transaction.md)
+- [Exception](https://github.com/hg-study/database/blob/main/MySQL/Theory/16Exception.md)
+- [Trigger](https://github.com/hg-study/database/blob/main/MySQL/Theory/17Trigger.md)
+- [Backup](https://github.com/hg-study/database/blob/main/MySQL/Theory/18Backup.md)
+- [Modeling](https://github.com/hg-study/database/blob/main/MySQL/Theory/19Modeling.md)
 
 </details>
 
