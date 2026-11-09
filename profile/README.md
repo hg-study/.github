@@ -12,6 +12,7 @@
 | HTML, CSS, JavaScript | HTML, CSS, JS, JS 라이브러리, SCSS, Node | [html-css-js](https://github.com/hg-study/html-css-js) |
 | Database | MySQL 설치, SQL, 모델링, 백업과 복원 | [database](https://github.com/hg-study/database) |
 | Dev Tools | Jira, Slack, VSCode, Eclipse 서블릿 설정, MySQL 드라이버 | [dev-tools](https://github.com/hg-study/dev-tools) |
+| Java | 자바 기초부터 객체지향, 컬렉션, 입출력, JDBC, 소켓, 스레드 | [java](https://github.com/hg-study/java) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -157,6 +158,25 @@
 - [VSCode](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/02_VSCode.md)
 - [Eclipse_Servlet](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/03_Eclipse_Servlet.md)
 - [MySQL_Driver](https://github.com/hg-study/dev-tools/blob/main/Dev_Tools/04_MySQL_Driver.md)
+
+</details>
+
+
+<br>
+
+## [Java](https://github.com/hg-study/java)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/java/blob/main/README.md)
+
+- [Java Basic](https://github.com/hg-study/java/blob/main/Theory/01JavaBasic.md)
+- [Variable](https://github.com/hg-study/java/blob/main/Theory/02Variable.md)
+- [Type Cast](https://github.com/hg-study/java/blob/main/Theory/03TypeCast.md)
+- [Scanner](https://github.com/hg-study/java/blob/main/Theory/04Scanner.md)
+- [Operator](https://github.com/hg-study/java/blob/main/Theory/05Operator.md)
+- [Control](https://github.com/hg-study/java/blob/main/Theory/06Control.md)
 
 </details>
 
