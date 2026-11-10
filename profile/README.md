@@ -171,11 +171,17 @@
 
 [상세목록 md](https://github.com/hg-study/java/blob/main/README.md)
 
+- [Class](https://github.com/hg-study/java/blob/main/Theory/01Class.md)
 - [Java Basic](https://github.com/hg-study/java/blob/main/Theory/01JavaBasic.md)
+- [Encapsulation](https://github.com/hg-study/java/blob/main/Theory/02Encapsulation.md)
 - [Variable](https://github.com/hg-study/java/blob/main/Theory/02Variable.md)
+- [Array](https://github.com/hg-study/java/blob/main/Theory/03Array.md)
 - [Type Cast](https://github.com/hg-study/java/blob/main/Theory/03TypeCast.md)
 - [Scanner](https://github.com/hg-study/java/blob/main/Theory/04Scanner.md)
+- [Static](https://github.com/hg-study/java/blob/main/Theory/04Static.md)
+- [Inheritance](https://github.com/hg-study/java/blob/main/Theory/05Inheritance.md)
 - [Operator](https://github.com/hg-study/java/blob/main/Theory/05Operator.md)
+- [Abstract & Interface](https://github.com/hg-study/java/blob/main/Theory/06AbstractInterface.md)
 - [Control](https://github.com/hg-study/java/blob/main/Theory/06Control.md)
 
 </details>
