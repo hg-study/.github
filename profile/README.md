@@ -13,6 +13,7 @@
 | Database | MySQL 설치, SQL, 모델링, 백업과 복원 | [database](https://github.com/hg-study/database) |
 | Dev Tools | Jira, Slack, VSCode, Eclipse 서블릿 설정, MySQL 드라이버 | [dev-tools](https://github.com/hg-study/dev-tools) |
 | Java | 자바 기초부터 객체지향, 컬렉션, 입출력, JDBC, 소켓, 스레드 | [java](https://github.com/hg-study/java) |
+| JSP | JSP, Servlet, Filter, Listener, 커넥션 풀 | [jsp](https://github.com/hg-study/jsp) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -200,6 +201,31 @@
 - [Lambda](https://github.com/hg-study/java/blob/main/Theory/12Lambda.md)
 - [Stream](https://github.com/hg-study/java/blob/main/Theory/13Stream.md)
 - [Functional Interface](https://github.com/hg-study/java/blob/main/Theory/14FunctionalInterface.md)
+
+</details>
+
+
+<br>
+
+## [JSP](https://github.com/hg-study/jsp)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/jsp/blob/main/README.md)
+
+- [Connection Pool](https://github.com/hg-study/jsp/blob/main/Theory/01ConnectionPool.md)
+- [Environment](https://github.com/hg-study/jsp/blob/main/Theory/01Environment.md)
+- [Filter](https://github.com/hg-study/jsp/blob/main/Theory/01Filter.md)
+- [Listener](https://github.com/hg-study/jsp/blob/main/Theory/01Listener.md)
+- [Servlet](https://github.com/hg-study/jsp/blob/main/Theory/01Servlet.md)
+- [Script](https://github.com/hg-study/jsp/blob/main/Theory/02Script.md)
+- [Request](https://github.com/hg-study/jsp/blob/main/Theory/03Request.md)
+- [Move](https://github.com/hg-study/jsp/blob/main/Theory/04Move.md)
+- [Jdbc](https://github.com/hg-study/jsp/blob/main/Theory/05Jdbc.md)
+- [Session](https://github.com/hg-study/jsp/blob/main/Theory/06Session.md)
+- [Cookie](https://github.com/hg-study/jsp/blob/main/Theory/07Cookie.md)
+- [Object](https://github.com/hg-study/jsp/blob/main/Theory/08Object.md)
 
 </details>
 
