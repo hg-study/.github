@@ -19,6 +19,7 @@
 | Docker | 이미지, 컨테이너, Compose, 배포, Jenkins | [docker](https://github.com/hg-study/docker) |
 | FastAPI | FastAPI 기초, CRUD, ML 풀스택 샘플 | [fastapi](https://github.com/hg-study/fastapi) |
 | Vibe Coding | Cursor 규칙, MCP, 디자인 시스템 | [vibe-coding](https://github.com/hg-study/vibe-coding) |
+| Flutter | Dart, UI, 상태 관리, 인증 앱 | [flutter](https://github.com/hg-study/flutter) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -347,6 +348,24 @@
 - [Cursor Rules](https://github.com/hg-study/vibe-coding/blob/main/Theory/02CursorRules.md)
 - [MCP](https://github.com/hg-study/vibe-coding/blob/main/Theory/03Mcp.md)
 - [Design System](https://github.com/hg-study/vibe-coding/blob/main/Theory/04DesignSystem.md)
+
+</details>
+
+
+<br>
+
+## [Flutter](https://github.com/hg-study/flutter)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/flutter/blob/main/README.md)
+
+- [Flutter Init](https://github.com/hg-study/flutter/blob/main/Theory/01FlutterInit.md)
+- [Dart Basic](https://github.com/hg-study/flutter/blob/main/Theory/02DartBasic.md)
+- [Flutter UI](https://github.com/hg-study/flutter/blob/main/Theory/03FlutterUi.md)
+- [Flutter Advanced](https://github.com/hg-study/flutter/blob/main/Theory/04FlutterAdvanced.md)
+- [Flutter Auth App](https://github.com/hg-study/flutter/blob/main/Theory/05FlutterAuthApp.md)
 
 </details>
 
