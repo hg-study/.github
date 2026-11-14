@@ -18,6 +18,7 @@
 | React | React 기초, Spring Boot 연동, 시큐리티 | [react](https://github.com/hg-study/react) |
 | Docker | 이미지, 컨테이너, Compose, 배포, Jenkins | [docker](https://github.com/hg-study/docker) |
 | FastAPI | FastAPI 기초, CRUD, ML 풀스택 샘플 | [fastapi](https://github.com/hg-study/fastapi) |
+| Vibe Coding | Cursor 규칙, MCP, 디자인 시스템 | [vibe-coding](https://github.com/hg-study/vibe-coding) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -329,6 +330,23 @@
 - [FastAPI Basic](https://github.com/hg-study/fastapi/blob/main/Theory/02FastApiBasic.md)
 - [FastAPI CRUD](https://github.com/hg-study/fastapi/blob/main/Theory/03FastApiCrud.md)
 - [ML Fullstack Sample](https://github.com/hg-study/fastapi/blob/main/Theory/04MlFullstackSample.md)
+
+</details>
+
+
+<br>
+
+## [Vibe Coding](https://github.com/hg-study/vibe-coding)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/vibe-coding/blob/main/README.md)
+
+- [Cursor Basics](https://github.com/hg-study/vibe-coding/blob/main/Theory/01CursorBasics.md)
+- [Cursor Rules](https://github.com/hg-study/vibe-coding/blob/main/Theory/02CursorRules.md)
+- [MCP](https://github.com/hg-study/vibe-coding/blob/main/Theory/03Mcp.md)
+- [Design System](https://github.com/hg-study/vibe-coding/blob/main/Theory/04DesignSystem.md)
 
 </details>
 
