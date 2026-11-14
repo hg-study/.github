@@ -17,6 +17,7 @@
 | Spring Boot | DI, 데이터 접근, REST, 시큐리티, 배치 등 | [spring-boot](https://github.com/hg-study/spring-boot) |
 | React | React 기초, Spring Boot 연동, 시큐리티 | [react](https://github.com/hg-study/react) |
 | Docker | 이미지, 컨테이너, Compose, 배포, Jenkins | [docker](https://github.com/hg-study/docker) |
+| FastAPI | FastAPI 기초, CRUD, ML 풀스택 샘플 | [fastapi](https://github.com/hg-study/fastapi) |
 | Assignments | 화면 설계 ~ DBMS 구축 과정 수업 과제 | [assignments](https://github.com/hg-study/assignments) |
 
 <br>
@@ -311,6 +312,23 @@
 - [Docker Hub](https://github.com/hg-study/docker/blob/main/Theory/04DockerHub.md)
 - [Deploy](https://github.com/hg-study/docker/blob/main/Theory/05Deploy.md)
 - [EC2 Jenkins](https://github.com/hg-study/docker/blob/main/Theory/06Ec2Jenkins.md)
+
+</details>
+
+
+<br>
+
+## [FastAPI](https://github.com/hg-study/fastapi)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/fastapi/blob/main/README.md)
+
+- [FastAPI Init](https://github.com/hg-study/fastapi/blob/main/Theory/01FastApiInit.md)
+- [FastAPI Basic](https://github.com/hg-study/fastapi/blob/main/Theory/02FastApiBasic.md)
+- [FastAPI CRUD](https://github.com/hg-study/fastapi/blob/main/Theory/03FastApiCrud.md)
+- [ML Fullstack Sample](https://github.com/hg-study/fastapi/blob/main/Theory/04MlFullstackSample.md)
 
 </details>
 
