@@ -17,6 +17,7 @@
 | Spring Boot | DI, 데이터 접근, REST, 시큐리티, 배치 등 | [spring-boot](https://github.com/hg-study/spring-boot) |
 | React | React 기초, Spring Boot 연동, 시큐리티 | [react](https://github.com/hg-study/react) |
 | Docker | 이미지, 컨테이너, Compose, 배포, Jenkins | [docker](https://github.com/hg-study/docker) |
+| Machine Learning | 파이썬, 머신러닝, 딥러닝, Streamlit, 챗봇, YOLO | [machine-learning](https://github.com/hg-study/machine-learning) |
 | FastAPI | FastAPI 기초, CRUD, ML 풀스택 샘플 | [fastapi](https://github.com/hg-study/fastapi) |
 | Vibe Coding | Cursor 규칙, MCP, 디자인 시스템 | [vibe-coding](https://github.com/hg-study/vibe-coding) |
 | Flutter | Dart, UI, 상태 관리, 인증 앱 | [flutter](https://github.com/hg-study/flutter) |
@@ -314,6 +315,36 @@
 - [Docker Hub](https://github.com/hg-study/docker/blob/main/Theory/04DockerHub.md)
 - [Deploy](https://github.com/hg-study/docker/blob/main/Theory/05Deploy.md)
 - [EC2 Jenkins](https://github.com/hg-study/docker/blob/main/Theory/06Ec2Jenkins.md)
+
+</details>
+
+
+<br>
+
+## [Machine Learning](https://github.com/hg-study/machine-learning)
+
+<details>
+<summary> 정리 목록 확인</summary>
+
+[상세목록 md](https://github.com/hg-study/machine-learning/blob/main/README.md)
+
+- [Python Basics](https://github.com/hg-study/machine-learning/blob/main/Theory/01PythonBasics.md)
+- [Numpy Pandas](https://github.com/hg-study/machine-learning/blob/main/Theory/02NumpyPandas.md)
+- [Ml Overview](https://github.com/hg-study/machine-learning/blob/main/Theory/03MlOverview.md)
+- [Binary Class](https://github.com/hg-study/machine-learning/blob/main/Theory/04BinaryClass.md)
+- [Multi Class](https://github.com/hg-study/machine-learning/blob/main/Theory/05MultiClass.md)
+- [Linear Regression](https://github.com/hg-study/machine-learning/blob/main/Theory/06LinearRegression.md)
+- [Logistic Regression](https://github.com/hg-study/machine-learning/blob/main/Theory/07LogisticRegression.md)
+- [Tuning](https://github.com/hg-study/machine-learning/blob/main/Theory/08Tuning.md)
+- [Clustering](https://github.com/hg-study/machine-learning/blob/main/Theory/09Clustering.md)
+- [Dim Reduction](https://github.com/hg-study/machine-learning/blob/main/Theory/10DimReduction.md)
+- [Association](https://github.com/hg-study/machine-learning/blob/main/Theory/11Association.md)
+- [Anomaly](https://github.com/hg-study/machine-learning/blob/main/Theory/12Anomaly.md)
+- [Visualization](https://github.com/hg-study/machine-learning/blob/main/Theory/13Visualization.md)
+- [Streamlit](https://github.com/hg-study/machine-learning/blob/main/Theory/14Streamlit.md)
+- [Chatbot](https://github.com/hg-study/machine-learning/blob/main/Theory/15Chatbot.md)
+- [YOLO](https://github.com/hg-study/machine-learning/blob/main/Theory/16Yolo.md)
+- [Deep Learning](https://github.com/hg-study/machine-learning/blob/main/Theory/17DeepLearning.md)
 
 </details>
 
